@@ -1,0 +1,92 @@
+21969805166691
+Library
+AMASS_XT30U-F_1x02_P5.0mm_Vertical
+Connector XT30 Vertical Cable Female, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+Library
+Adafruit Bluefruit LE SPI Friend
+
+
+0
+9
+9
+Library
+BD65496MUV
+
+
+0
+9
+9
+Library
+PinHeader_1x04_GND
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+Library
+PinHeader_1x04_P2.54mm_Vertical
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+Library
+PinHeader_1x05_P2.54mm_Vertical
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+Library
+PinHeader_1x06_P2.54mm_Vertical
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+Library
+PinHeader_2x02_P2.54mm_Horizontal
+Through hole angled pin header, 2x02, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x02 2.54mm double row
+0
+4
+4
+Library
+PinHeader_2x04_P2.54mm_Horizontal
+Through hole angled pin header, 2x04, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x04 2.54mm double row
+0
+8
+8
+Library
+PinHeader_2x06_P2.54mm_Horizontal
+Through hole angled pin header, 2x06, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x06 2.54mm double row
+0
+12
+12
+Library
+PinHeader_2x06_P2.54mm_Vertical
+Through hole straight pin header, 2x06, 2.54mm pitch, double rows
+Through hole pin header THT 2x06 2.54mm double row
+0
+12
+12
+Library
+connector0206
+
+
+0
+12
+12
+Library
+teensy
+
+
+0
+28
+28
